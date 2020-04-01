@@ -1,0 +1,1094 @@
+{
+    "lens_id": "",
+    "document_id": "tcR0vUyaDLMt0hKuTtZc",
+    "original_document_id": "tcR0vUyaDLMt0hKuTtZc",
+    "version": "23",
+    "lastChanged": "1585675361623",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "AttachToObjectTracking"
+                    ],
+                    [
+                        "Box"
+                    ],
+                    [
+                        "Test Materials"
+                    ],
+                    [
+                        "Test Materials",
+                        "3D Mosaic"
+                    ],
+                    [
+                        "Test Materials",
+                        "Disintegrate"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "mosaicColors"
+                    ],
+                    [
+                        "Tween Folder"
+                    ],
+                    [
+                        "Tween Folder",
+                        "Tween"
+                    ],
+                    [
+                        "Tween Folder",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween Folder",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween Folder",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween Folder",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween Folder",
+                        "TweenScreenTransform"
+                    ],
+                    [
+                        "Tween Folder",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween Folder",
+                        "TweenValue"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "video_preview_path": "preview.mp4",
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Cat.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "1585674817958159:298023",
+            "active_graph_pass": "0"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1585673447725745:74247",
+                    "name": "Files\/File3.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1585673497269903:75157",
+                    "name": "Files\/File4.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1585674740517309:295331",
+                    "name": "Files\/File8.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1585674740627659:295340",
+                    "name": "Files\/File9.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1585674740694127:295519",
+                    "name": "Files\/File10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1585674740762484:295528",
+                    "name": "Files\/File11.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1585674740798840:295537",
+                    "name": "Files\/File12.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1585674740830656:295546",
+                    "name": "Files\/File13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1585674740865940:295555",
+                    "name": "Files\/File14.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1585674740893594:295564",
+                    "name": "Files\/File15.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1585674817958159:298023",
+                    "name": "Files\/File16",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1585674864102693:298401",
+                    "name": "Files\/File18",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1585674864169402:298451",
+                    "name": "Files\/File20.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1585673437824154:73725",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1585673437852381:73871",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1585673437763781:73525",
+                "4": "1585673437774458:73590",
+                "5": "1585673437824000:73724",
+                "6": "1585673437852220:73870",
+                "7": "1585673455572908:74358",
+                "8": "1585673489799262:75100",
+                "9": "1585673497275973:75213",
+                "10": "1585674770028409:296426"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.js"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.mesh"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.js"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.js"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.js"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.js"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.js"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.js"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.js"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.js"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "661",
+                        "v": "AttachToObjectTracking.js"
+                    },
+                    {
+                        "k": "662",
+                        "v": "Box.mesh"
+                    },
+                    {
+                        "k": "667",
+                        "v": "Tween Folder\/Tween.js"
+                    },
+                    {
+                        "k": "668",
+                        "v": "Tween Folder\/TweenAlpha.js"
+                    },
+                    {
+                        "k": "669",
+                        "v": "Tween Folder\/TweenChain.js"
+                    },
+                    {
+                        "k": "670",
+                        "v": "Tween Folder\/TweenColor.js"
+                    },
+                    {
+                        "k": "671",
+                        "v": "Tween Folder\/TweenManager.js"
+                    },
+                    {
+                        "k": "672",
+                        "v": "Tween Folder\/TweenScreenTransform.js"
+                    },
+                    {
+                        "k": "673",
+                        "v": "Tween Folder\/TweenTransform.js"
+                    },
+                    {
+                        "k": "674",
+                        "v": "Tween Folder\/TweenValue.js"
+                    },
+                    {
+                        "k": "675",
+                        "v": "Tween Folder"
+                    },
+                    {
+                        "k": "676",
+                        "v": "Test Materials\/Disintegrate.lsmat"
+                    },
+                    {
+                        "k": "677",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "678",
+                        "v": "Textures\/mosaicColors.png"
+                    },
+                    {
+                        "k": "679",
+                        "v": "Test Materials\/3D Mosaic.lsmat"
+                    },
+                    {
+                        "k": "680",
+                        "v": "Test Materials"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "661",
+                        "v": "c15a62a95941358e7e969b2e562d8b86"
+                    },
+                    {
+                        "k": "662",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "663",
+                        "v": "c2c36c3c004e3855e7134839147bf11c"
+                    },
+                    {
+                        "k": "666",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "667",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "668",
+                        "v": "4ca6ca961ac63737cdfdb95767c3e077"
+                    },
+                    {
+                        "k": "669",
+                        "v": "a8212c4a0d7f900c75c80ad4829f91f0"
+                    },
+                    {
+                        "k": "670",
+                        "v": "c131d6b8c0d4a0024e8bc15b93f5b58b"
+                    },
+                    {
+                        "k": "671",
+                        "v": "a094f372f9487690786f930bd7030e82"
+                    },
+                    {
+                        "k": "672",
+                        "v": "15f4c60fdceda581e50db7b5e824cda4"
+                    },
+                    {
+                        "k": "673",
+                        "v": "b8c4f74a16d1548b5c8cecb4b54a3c89"
+                    },
+                    {
+                        "k": "674",
+                        "v": "8a3af68c16493bc48b0f7f17a1d6c065"
+                    },
+                    {
+                        "k": "676",
+                        "v": "1a1fef26798bf970cb03eac033e10590"
+                    },
+                    {
+                        "k": "678",
+                        "v": "c92818fccad33fcb4a912469d8bfef17"
+                    },
+                    {
+                        "k": "679",
+                        "v": "53de39ed47aa443aae8f381c426bf6d1"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-03-31T10:16:54",
+                        "name": "Public",
+                        "hash": "f278dbddcfc9205e147195da86f50679",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-03-31T10:12:49",
+                                "name": "Tween Folder",
+                                "hash": "4f926f791ceba88bd26c3376b1e2fceb",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T09:53:28",
+                                        "name": "TweenChain.js",
+                                        "hash": "a8212c4a0d7f900c75c80ad4829f91f0",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T09:53:28",
+                                        "name": "TweenColor.js",
+                                        "hash": "c131d6b8c0d4a0024e8bc15b93f5b58b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T09:53:28",
+                                        "name": "TweenTransform.js",
+                                        "hash": "b8c4f74a16d1548b5c8cecb4b54a3c89",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T09:53:28",
+                                        "name": "TweenScreenTransform.js",
+                                        "hash": "15f4c60fdceda581e50db7b5e824cda4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T09:53:28",
+                                        "name": "TweenValue.js",
+                                        "hash": "8a3af68c16493bc48b0f7f17a1d6c065",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T09:53:28",
+                                        "name": "TweenManager.js",
+                                        "hash": "a094f372f9487690786f930bd7030e82",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T09:53:28",
+                                        "name": "TweenAlpha.js",
+                                        "hash": "4ca6ca961ac63737cdfdb95767c3e077",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T09:53:28",
+                                        "name": "Tween.js",
+                                        "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T10:12:26",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-03-31T10:14:31",
+                                "name": "Textures",
+                                "hash": "036c07321e331bf8ed7974990dd30c87",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T10:14:24",
+                                        "name": "mosaicColors.png",
+                                        "hash": "c92818fccad33fcb4a912469d8bfef17",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T10:14:24",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T17:21:52",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T17:21:52",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-01T18:10:29",
+                                "name": "AttachToObjectTracking.js",
+                                "hash": "c15a62a95941358e7e969b2e562d8b86",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-31T09:51:37",
+                                "name": "Box.mesh",
+                                "hash": "0f22bac28f4bb7f9303722acb5d035e0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-03-31T10:16:54",
+                                "name": "Test Materials",
+                                "hash": "0221c574d3816ab93929fd517c391a85",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T10:14:24",
+                                        "name": "3D Mosaic.lsmat",
+                                        "hash": "f9524aaee361e21576ce1f4ec8931991",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T10:13:38",
+                                        "name": "Disintegrate.lsmat",
+                                        "hash": "cbb589394da631eac9262d1fa37c2adc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-31T10:16:40",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T17:21:47",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AttachToObjectTracking",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "10",
+                        "dependency": "0",
+                        "uid": "1585673447725745:74247",
+                        "fileId": "3",
+                        "originalId": "18446744073709551615",
+                        "publicId": "661",
+                        "source": "\/Users\/cameronjensen\/Documents\/Snap Lenses\/Objects\/3D Object Follow Face\/AttachToObjectTracking.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Box",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "uid": "1585673497269903:75157",
+                        "fileId": "4",
+                        "originalId": "18446744073709551615",
+                        "publicId": "662",
+                        "source": "\/var\/folders\/yc\/tbnz3vyj7n719zsdtswsygmm0000gn\/T\/Lens Studio-NGXWbA\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Tween Folder",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "675",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1585674740517309:295331",
+                                "fileId": "8",
+                                "originalId": "18446744073709551615",
+                                "publicId": "667",
+                                "source": "\/Users\/cameronjensen\/Documents\/Snap Lenses\/Objects\/Material Editor Scripts\/Tween.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenAlpha",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "uid": "1585674740627659:295340",
+                                "fileId": "9",
+                                "originalId": "18446744073709551615",
+                                "publicId": "668",
+                                "source": "\/Users\/cameronjensen\/Documents\/Snap Lenses\/Objects\/Material Editor Scripts\/TweenAlpha.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenChain",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "uid": "1585674740694127:295519",
+                                "fileId": "10",
+                                "originalId": "18446744073709551615",
+                                "publicId": "669",
+                                "source": "\/Users\/cameronjensen\/Documents\/Snap Lenses\/Objects\/Material Editor Scripts\/TweenChain.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenColor",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1585674740762484:295528",
+                                "fileId": "11",
+                                "originalId": "18446744073709551615",
+                                "publicId": "670",
+                                "source": "\/Users\/cameronjensen\/Documents\/Snap Lenses\/Objects\/Material Editor Scripts\/TweenColor.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenManager",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "uid": "1585674740798840:295537",
+                                "fileId": "12",
+                                "originalId": "18446744073709551615",
+                                "publicId": "671",
+                                "source": "\/Users\/cameronjensen\/Documents\/Snap Lenses\/Objects\/Material Editor Scripts\/TweenManager.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenScreenTransform",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "uid": "1585674740830656:295546",
+                                "fileId": "13",
+                                "originalId": "18446744073709551615",
+                                "publicId": "672",
+                                "source": "\/Users\/cameronjensen\/Documents\/Snap Lenses\/Objects\/Material Editor Scripts\/TweenScreenTransform.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenTransform",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "uid": "1585674740865940:295555",
+                                "fileId": "14",
+                                "originalId": "18446744073709551615",
+                                "publicId": "673",
+                                "source": "\/Users\/cameronjensen\/Documents\/Snap Lenses\/Objects\/Material Editor Scripts\/TweenTransform.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenValue",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "uid": "1585674740893594:295564",
+                                "fileId": "15",
+                                "originalId": "18446744073709551615",
+                                "publicId": "674",
+                                "source": "\/Users\/cameronjensen\/Documents\/Snap Lenses\/Objects\/Material Editor Scripts\/TweenValue.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "677",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "mosaicColors",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "24",
+                                "dependency": "0",
+                                "uid": "1585674864169402:298451",
+                                "fileId": "20",
+                                "originalId": "21",
+                                "publicId": "678",
+                                "source": "\/var\/folders\/yc\/tbnz3vyj7n719zsdtswsygmm0000gn\/T\/Lens Studio-esarOT\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Test Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "680",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Disintegrate",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "uid": "1585674817958159:298023",
+                                "fileId": "16",
+                                "originalId": "17",
+                                "publicId": "676",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "3D Mosaic",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "23",
+                                "dependency": "0",
+                                "uid": "1585674864102693:298401",
+                                "fileId": "18",
+                                "originalId": "19",
+                                "publicId": "679",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1585674817958159:298023",
+                        "path_list": [
+                            "Disintegrate"
+                        ]
+                    },
+                    {
+                        "uid": "1585674864102693:298401",
+                        "path_list": [
+                            "3D Mosaic"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A91376F0-5527-9CB8-766A-955D43BBA7AF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/JSONReader.cs">
+    <Files>
+      <File FileName="Assets/Scenes/JSONReader.cs" Line="17" Column="51" />
+      <File FileName="Assets/Scenes/Language.cs" Line="8" Column="1" />
+      <File FileName="Assets/languages.JSON" Line="1" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DjangoCMSTest" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a195136b-328f-416f-94b6-28952e2a3a7c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

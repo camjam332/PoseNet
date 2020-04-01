@@ -1,0 +1,1237 @@
+{
+    "lens_id": "654d741d-439e-40d3-84f6-a532d5cd8227",
+    "document_id": "fOMCDaCor34hZIfjaAQa",
+    "original_document_id": "fOMCDaCor34hZIfjaAQa",
+    "version": "23",
+    "lastChanged": "1585702755975",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Billboard Textures [REPLACE_ME]"
+                    ],
+                    [
+                        "Billboard Textures [REPLACE_ME]",
+                        "background_image [REPLACE_ME]"
+                    ],
+                    [
+                        "Billboard Textures [REPLACE_ME]",
+                        "primary_image [REPLACE_ME]"
+                    ],
+                    [
+                        "Face Inset"
+                    ],
+                    [
+                        "ParticleResources"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Materials",
+                        "particle_blizzard [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes",
+                        "emitter_1000"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fireball_2x2"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "BlizzardController"
+                    ],
+                    [
+                        "Scripts",
+                        "FaceInsetController"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Mask"
+                    ],
+                    [
+                        "amp_logo"
+                    ],
+                    [
+                        "joe_exotic_hair_blur"
+                    ],
+                    [
+                        "joe_exotic_hair_blur (1)"
+                    ],
+                    [
+                        "no_face_joe"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1524783511396346:19889",
+                    "1524788899821858:34017",
+                    "1553742935130488:147722"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "26051fa479f2fe060955119fddd59bd0",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "The Tiger King",
+            "applicability": "1",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Pair 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Pair Idle Persons 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1524783133817508:10692",
+                    "1524783196802731:11758",
+                    "1524783789075243:23281",
+                    "1524790539798014:61669",
+                    "1526434734031729:76282",
+                    "1585702226298171:29843"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1524783067853453:7720",
+                    "name": "\/Resources\/Resource39.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1524862387641196:13480",
+                    "name": "\/Resources\/Resource64.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1526434499374975:71318",
+                    "name": "\/Resources\/Resource75.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1553558626656720:166496",
+                    "name": "Files\/File9.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1553742934785556:147676",
+                    "name": "Files\/File15.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1553742934867188:147691",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1571874607125786:344635",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "84",
+                    "uid": "1585597638929731:1981999",
+                    "name": "Files\/File24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "86",
+                    "uid": "1585598056673315:2010091",
+                    "name": "Files\/File26",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "87",
+                    "uid": "1585598056732663:2010127",
+                    "name": "Files\/File28.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "89",
+                    "uid": "1585599669128159:2030403",
+                    "name": "Files\/File32.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "90",
+                    "uid": "1585702195146693:27281",
+                    "name": "Files\/File34.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "91",
+                    "uid": "1585702286643911:34693",
+                    "name": "Files\/File36.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1553292182079724:10243",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553292182101811:10506",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1585598564188790:2017867",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1585702264623050:32598",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1521051321262419:1013",
+                "1": "1525475027496094:137750",
+                "2": "1553292182079010:10237",
+                "3": "1585702226286307:29776",
+                "4": "1585702264622825:32597"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.js"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.js"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.jpg"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.jpg"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.lsmat"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "8",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Scripts\/FaceInsetController.js"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Billboard Textures [REPLACE_ME]"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Billboard Textures [REPLACE_ME]\/primary_image [REPLACE_ME].png"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Billboard Textures [REPLACE_ME]\/background_image [REPLACE_ME].png"
+                    },
+                    {
+                        "k": "186",
+                        "v": "ParticleResources"
+                    },
+                    {
+                        "k": "187",
+                        "v": "ParticleResources\/Meshes"
+                    },
+                    {
+                        "k": "188",
+                        "v": "ParticleResources\/Meshes\/emitter_1000.mesh"
+                    },
+                    {
+                        "k": "190",
+                        "v": "ParticleResources\/Textures"
+                    },
+                    {
+                        "k": "194",
+                        "v": "ParticleResources\/Materials"
+                    },
+                    {
+                        "k": "546",
+                        "v": "Scripts\/BlizzardController.js"
+                    },
+                    {
+                        "k": "547",
+                        "v": "ParticleResources\/Textures\/fireball_2x2.jpg"
+                    },
+                    {
+                        "k": "552",
+                        "v": "ParticleResources\/Materials\/particle_blizzard [EDIT_ME].lsmat"
+                    },
+                    {
+                        "k": "723",
+                        "v": "no_face_joe.png"
+                    },
+                    {
+                        "k": "724",
+                        "v": "Textures\/Mask.png"
+                    },
+                    {
+                        "k": "725",
+                        "v": "Face Inset.lsmat"
+                    },
+                    {
+                        "k": "727",
+                        "v": "joe_exotic_hair_blur.png"
+                    },
+                    {
+                        "k": "728",
+                        "v": "joe_exotic_hair_blur (1).png"
+                    },
+                    {
+                        "k": "729",
+                        "v": "amp_logo.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "3",
+                        "v": "adc36fff2957674601d705ed729586cf"
+                    },
+                    {
+                        "k": "5",
+                        "v": "b7ddf23e04673576d0ed43fb6bddd4d8"
+                    },
+                    {
+                        "k": "7",
+                        "v": "893e0ef03cd547c41fffa5b46d1dcb5a"
+                    },
+                    {
+                        "k": "9",
+                        "v": "7de41d30768b0c6d156dfbbccd0aedb5"
+                    },
+                    {
+                        "k": "10",
+                        "v": "8b4949376da545a239ff14f6f1682739"
+                    },
+                    {
+                        "k": "13",
+                        "v": "27cd793bb1a81356a5700912d3f4dac6"
+                    },
+                    {
+                        "k": "14",
+                        "v": "340369d7fa6704a7cb75c4935d0dd3f8"
+                    },
+                    {
+                        "k": "188",
+                        "v": "adc36fff2957674601d705ed729586cf"
+                    },
+                    {
+                        "k": "189",
+                        "v": "7de41d30768b0c6d156dfbbccd0aedb5"
+                    },
+                    {
+                        "k": "191",
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    },
+                    {
+                        "k": "195",
+                        "v": "d240c68c8afcf248f0cadc1bf5adf0ca"
+                    },
+                    {
+                        "k": "546",
+                        "v": "3dcc4c67b80a37f34087d753df82149e"
+                    },
+                    {
+                        "k": "547",
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    },
+                    {
+                        "k": "551",
+                        "v": "9773f2d274603312862deb2eed639f46"
+                    },
+                    {
+                        "k": "552",
+                        "v": "7ec7339aed07f63409ba9533e62de957"
+                    },
+                    {
+                        "k": "553",
+                        "v": "f6b88468db676b5e99f0abd1a66de661"
+                    },
+                    {
+                        "k": "723",
+                        "v": "ac11c125e70d897c738b70d26d7f497a"
+                    },
+                    {
+                        "k": "724",
+                        "v": "0694a136d7a6d7f1933260b0f979ba3c"
+                    },
+                    {
+                        "k": "725",
+                        "v": "fb03ee71899299e2d64183211f28c8d7"
+                    },
+                    {
+                        "k": "726",
+                        "v": "ed78acf56405e16e4bec906a16ac535f"
+                    },
+                    {
+                        "k": "727",
+                        "v": "4b7e0aea91043fb07104df68249f5982"
+                    },
+                    {
+                        "k": "728",
+                        "v": "881dea33f5671f9b57fa784b713e96c2"
+                    },
+                    {
+                        "k": "729",
+                        "v": "a4ff9edad39539dacaf139b506477c28"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-03-31T17:51:26",
+                        "name": "Public",
+                        "hash": "fbfa2b4d6697391d6ebdb83fdcf2eb04",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-30T12:47:01",
+                                "name": "no_face_joe.png",
+                                "hash": "ac11c125e70d897c738b70d26d7f497a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-30T12:54:16",
+                                "name": "Face Inset.lsmat",
+                                "hash": "fb03ee71899299e2d64183211f28c8d7",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-03-30T13:46:00",
+                                "name": "Textures",
+                                "hash": "b5da31c2dbb9af17da56c887aa9660ae",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-03-30T12:54:16",
+                                        "name": "Mask.png",
+                                        "hash": "0694a136d7a6d7f1933260b0f979ba3c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T10:30:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-30T11:01:02",
+                                "name": "amp_logo.png",
+                                "hash": "a4ff9edad39539dacaf139b506477c28",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-31T17:49:38",
+                                "name": "joe_exotic_hair_blur (1).png",
+                                "hash": "881dea33f5671f9b57fa784b713e96c2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-03-30T13:46:00",
+                                "name": "Scripts",
+                                "hash": "752e19ca8de2c98a9548a339f10146bd",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T10:30:51",
+                                        "name": "FaceInsetController.js",
+                                        "hash": "8b4949376da545a239ff14f6f1682739",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T10:30:51",
+                                        "name": "BlizzardController.js",
+                                        "hash": "3dcc4c67b80a37f34087d753df82149e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T10:30:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-30T13:20:49",
+                                "name": "joe_exotic_hair_blur.png",
+                                "hash": "4b7e0aea91043fb07104df68249f5982",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-03-30T13:46:00",
+                                "name": "Billboard Textures [REPLACE_ME]",
+                                "hash": "b61f41b1f290e5411773d5ce731dd41d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T10:31:08",
+                                        "name": "background_image [REPLACE_ME].png",
+                                        "hash": "340369d7fa6704a7cb75c4935d0dd3f8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T10:31:08",
+                                        "name": "primary_image [REPLACE_ME].png",
+                                        "hash": "27cd793bb1a81356a5700912d3f4dac6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T10:30:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-03-30T13:46:00",
+                                "name": "ParticleResources",
+                                "hash": "01d191982d678e7963357796aee305e5",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-03-30T13:46:00",
+                                        "name": "Textures",
+                                        "hash": "207b71d5adbb07972444d590ec6eb906",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T10:31:08",
+                                                "name": "fireball_2x2.jpg",
+                                                "hash": "24006fd7408670db8d6088bf3d7f5f5e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T10:30:51",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-03-30T13:46:00",
+                                        "name": "Materials",
+                                        "hash": "d27fce26a849a0fe62fe474846fdd995",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T10:31:08",
+                                                "name": "particle_blizzard [EDIT_ME].lsmat",
+                                                "hash": "7ec7339aed07f63409ba9533e62de957",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T10:30:51",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-03-30T13:46:00",
+                                        "name": "Meshes",
+                                        "hash": "d7a591cced5cae3eff4182207df71439",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T10:31:08",
+                                                "name": "emitter_1000.mesh",
+                                                "hash": "adc36fff2957674601d705ed729586cf",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T10:30:51",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T10:30:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T10:30:51",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "FaceInsetController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "64",
+                                "dependency": "0",
+                                "uid": "1524862387641196:13480",
+                                "fileId": "6",
+                                "originalId": "18446744073709551615",
+                                "publicId": "10",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "BlizzardController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "80",
+                                "dependency": "0",
+                                "uid": "1553742934785556:147676",
+                                "fileId": "15",
+                                "originalId": "18446744073709551615",
+                                "publicId": "546",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Mask",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "87",
+                                "dependency": "0",
+                                "uid": "1585598056732663:2010127",
+                                "fileId": "28",
+                                "originalId": "29",
+                                "publicId": "724",
+                                "source": "\/var\/folders\/yc\/tbnz3vyj7n719zsdtswsygmm0000gn\/T\/Lens Studio-HHEsGB\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Billboard Textures [REPLACE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "12",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "primary_image [REPLACE_ME]",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "39",
+                                "dependency": "0",
+                                "uid": "1524783067853453:7720",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "13",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "background_image [REPLACE_ME]",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "75",
+                                "dependency": "0",
+                                "uid": "1526434499374975:71318",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "14",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ParticleResources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "186",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "187",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "emitter_1000",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "76",
+                                        "dependency": "0",
+                                        "uid": "1553558626656720:166496",
+                                        "fileId": "9",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "188",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "190",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "fireball_2x2",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "81",
+                                        "dependency": "0",
+                                        "uid": "1553742934867188:147691",
+                                        "fileId": "16",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "547",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "194",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "particle_blizzard [EDIT_ME]",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "83",
+                                        "dependency": "0",
+                                        "uid": "1571874607125786:344635",
+                                        "fileId": "21",
+                                        "originalId": "23",
+                                        "publicId": "552",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "no_face_joe",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "84",
+                        "dependency": "0",
+                        "uid": "1585597638929731:1981999",
+                        "fileId": "24",
+                        "originalId": "25",
+                        "publicId": "723",
+                        "source": "\/Users\/cameronjensen\/Downloads\/no_face_joe.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Inset",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "86",
+                        "dependency": "0",
+                        "uid": "1585598056673315:2010091",
+                        "fileId": "26",
+                        "originalId": "27",
+                        "publicId": "725",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "joe_exotic_hair_blur",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "89",
+                        "dependency": "0",
+                        "uid": "1585599669128159:2030403",
+                        "fileId": "32",
+                        "originalId": "33",
+                        "publicId": "727",
+                        "source": "\/Users\/cameronjensen\/Downloads\/joe_exotic_hair_blur.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "joe_exotic_hair_blur (1)",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "90",
+                        "dependency": "0",
+                        "uid": "1585702195146693:27281",
+                        "fileId": "34",
+                        "originalId": "35",
+                        "publicId": "728",
+                        "source": "\/Users\/cameronjensen\/Downloads\/joe_exotic_hair_blur (1).png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "amp_logo",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "91",
+                        "dependency": "0",
+                        "uid": "1585702286643911:34693",
+                        "fileId": "36",
+                        "originalId": "37",
+                        "publicId": "729",
+                        "source": "\/Users\/cameronjensen\/Downloads\/amp_logo.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
